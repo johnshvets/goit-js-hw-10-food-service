@@ -1,4 +1,4 @@
-[
+export default [
   {
     id: 'XWaQXcbk0',
     name: 'Картофель, запеченный в мундире',
